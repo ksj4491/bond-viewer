@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build
+dist/
+build/
+*.spec
+
+# Config / Secret
+config.ini
+bond_cache.json
