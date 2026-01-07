@@ -6,6 +6,10 @@
 
 data.go.kr 금융위원회 OpenAPI를 사용합니다.
 
+## 실행 화면
+
+![Bond Viewer Screenshot](screenshots/screenshot_main.png)
+
 ## 실행 환경
 
 - Python 3.10+
